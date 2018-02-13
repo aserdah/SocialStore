@@ -23,7 +23,7 @@ class RequestWrapper: NSObject {
         return df
     }()
     
-    static let tron = TRON(baseURL: "http://dev.newline.ps/wamd_ios/api/v1")
+    static let tron = TRON(baseURL: "")
     
     static var defaultHeaders: [String: String] {
         get {
