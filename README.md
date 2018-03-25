@@ -1,4 +1,19 @@
 # Social-Store
+<p>A Social Store app include the following skills</p>
+
+<p>•	Swift 4</p>
+<p>•	UIKit / Cocoa Touch, Foundation.</p>
+<p>•	Local and online Validation. </p>
+<p>•	Parse and RESTful backend APIs integration, JSON parsing.</p>
+<p>•	CoreData for local storage, working with multiple contexts.</p>
+<p>•	Alamofire and Torn networking library.</p>
+<p>•	Kingfisher image loading and caching library.</p>
+<p>•	AutoLayout and Size Classes.</p>
+<p>•	CocoaPods to manage dependencies.</p>
+<p>•	Slide menu.</p>
+<p>•	Image Slide show.
+</p>
+
 <img src="https://raw.githubusercontent.com/aserdah/SocialStore/master/SocialStore/Assets.xcassets/photo1.png">
 <img src="https://raw.githubusercontent.com/aserdah/SocialStore/master/SocialStore/Assets.xcassets/photo2.png">
 <img src="https://raw.githubusercontent.com/aserdah/SocialStore/master/SocialStore/Assets.xcassets/photo3.png">
